@@ -1,0 +1,12 @@
+,bytes_in,bytes_out,creation_time,end_time,src_ip,src_ip_country_code,protocol,response.code,dst_port,dst_ip,rule_names,observation_name,source.meta,source.name,time,detection_types
+count,282.0,282.0,282,282,282,282,282,282.0,282.0,282,282,282,282,282,282,282
+unique,,,30,30,28,7,1,,,1,1,1,1,1,30,1
+top,,,2024-04-26T09:00:00Z,2024-04-26T09:10:00Z,165.225.209.4,US,HTTPS,,,10.138.69.97,Suspicious Web Traffic,Adversary Infrastructure Interaction,AWS_VPC_Flow,prod_webserver,2024-04-26T09:00:00Z,waf_rule
+freq,,,17,17,29,113,282,,,282,282,282,282,282,17,282
+mean,1199390.1914893617,84554.29078014185,,,,,,200.0,443.0,,,,,,,
+std,4149311.993486674,254927.89919479674,,,,,,0.0,0.0,,,,,,,
+min,40.0,44.0,,,,,,200.0,443.0,,,,,,,
+25%,5381.5,11142.0,,,,,,200.0,443.0,,,,,,,
+50%,13182.0,13799.5,,,,,,200.0,443.0,,,,,,,
+75%,30833.0,26279.5,,,,,,200.0,443.0,,,,,,,
+max,25207794.0,1561220.0,,,,,,200.0,443.0,,,,,,,
